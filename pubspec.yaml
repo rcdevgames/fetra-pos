@@ -10,10 +10,10 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^0.1.2
   flutter_bloc: ^0.21.0
-  hydrated_bloc: ^0.4.1
+  # hydrated_bloc: ^0.4.1
   cryptoutils: ^0.4.0
   indonesia: ^1.0.1
-  equatable: ^0.6.1
+  equatable: ^0.2.0
   flutter_dotenv: ^2.0.3
   meta: ^1.1.7
 

@@ -7,6 +7,7 @@ abstract class AuthEvent extends Equatable {
 }
 
 class DoLogin extends AuthEvent {
+  String email, password;
+  DoLogin({this.email, this.password}) : super([email, password]);
   
-
 }
